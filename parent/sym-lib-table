@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "FBR_MCU")(type "KiCad")(uri "/home/jcah/Documents/Full Blue Racing/FBR-Steering-Wheel/libs/FBR_MCU.kicad_sym")(options "")(descr ""))
+)
