@@ -6810,7 +6810,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SteeringWheel:CAP_RCER72A105K2DBH03A"
 			(at 328.93 55.88 0)
 			(effects
 				(font
@@ -7011,7 +7011,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-223"
 			(at 314.96 50.8 0)
 			(effects
 				(font
@@ -7144,7 +7144,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "32p"
 			(at 150.622 71.12 0)
 			(effects
 				(font
@@ -7153,7 +7153,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SteeringWheel:CAP_RCER72A105K2DBH03A"
 			(at 148.59 69.85 0)
 			(effects
 				(font
@@ -7222,7 +7222,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "FBR_Footprints:5990K80107F"
+		(property "Footprint" "SteeringWheel:5990K80107F"
 			(at 111.76 187.96 90)
 			(effects
 				(font
@@ -7291,7 +7291,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "FBR_Footprints:5990K80107F"
+		(property "Footprint" "SteeringWheel:5990K80107F"
 			(at 172.72 187.96 90)
 			(effects
 				(font
@@ -7419,7 +7419,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100u"
+		(property "Value" "10u"
 			(at 303.53 57.1562 0)
 			(effects
 				(font
@@ -7428,7 +7428,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SteeringWheel:CAP_RCER72A105K2DBH03A"
 			(at 300.99 55.88 0)
 			(effects
 				(font
@@ -7497,7 +7497,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "FBR_Footprints:5990K80107F"
+		(property "Footprint" "SteeringWheel:5990K80107F"
 			(at 187.96 187.96 90)
 			(effects
 				(font
@@ -7905,7 +7905,7 @@
 				)
 			)
 		)
-		(property "Footprint" "FBR_Footprints:CAP_RCER72A105K2DBH03A"
+		(property "Footprint" "SteeringWheel:CAP_RCER72A105K2DBH03A"
 			(at 214.63 33.02 0)
 			(effects
 				(font
@@ -8269,7 +8269,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "FBR_Footprints:5990K80107F"
+		(property "Footprint" "SteeringWheel:5990K80107F"
 			(at 78.74 128.27 90)
 			(effects
 				(font
@@ -8405,7 +8405,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "FBR_Footprints:5990K80107F"
+		(property "Footprint" "SteeringWheel:5990K80107F"
 			(at 142.24 187.96 90)
 			(effects
 				(font
@@ -8541,7 +8541,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "FBR_Footprints:CAP_RCER72A105K2DBH03A"
+		(property "Footprint" "SteeringWheel:CAP_RCER72A105K2DBH03A"
 			(at 240.03 187.96 0)
 			(effects
 				(font
@@ -8680,7 +8680,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "FBR_Footprints:5990K80107F"
+		(property "Footprint" "SteeringWheel:5990K80107F"
 			(at 157.48 187.96 90)
 			(effects
 				(font
@@ -9125,7 +9125,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "FBR_Footprints:5990K80107F"
+		(property "Footprint" "SteeringWheel:5990K80107F"
 			(at 198.12 187.96 90)
 			(effects
 				(font
@@ -9260,7 +9260,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "FBR_Footprints:5990K80107F"
+		(property "Footprint" "SteeringWheel:5990K80107F"
 			(at 152.4 187.96 90)
 			(effects
 				(font
@@ -9667,7 +9667,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "FBR_Footprints:5990K80107F"
+		(property "Footprint" "SteeringWheel:5990K80107F"
 			(at 193.04 187.96 90)
 			(effects
 				(font
@@ -9873,7 +9873,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "FBR_Footprints:5990K80107F"
+		(property "Footprint" "SteeringWheel:5990K80107F"
 			(at 115.57 128.27 90)
 			(effects
 				(font
@@ -10282,7 +10282,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "FBR_Footprints:2N2222A"
+		(property "Footprint" "SteeringWheel:2N2222A"
 			(at 113.03 137.16 0)
 			(effects
 				(font
@@ -10555,7 +10555,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "FBR_Footprints:5990K80107F"
+		(property "Footprint" "SteeringWheel:5990K80107F"
 			(at 167.64 187.96 90)
 			(effects
 				(font
@@ -10625,7 +10625,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "FBR_Footprints:2N2222A"
+		(property "Footprint" "SteeringWheel:2N2222A"
 			(at 76.2 137.16 0)
 			(effects
 				(font
@@ -10951,7 +10951,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "32p"
 			(at 138.684 70.866 0)
 			(effects
 				(font
@@ -10960,7 +10960,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SteeringWheel:CAP_RCER72A105K2DBH03A"
 			(at 140.97 69.85 0)
 			(effects
 				(font
@@ -11367,7 +11367,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "FBR_Footprints:5990K80107F"
+		(property "Footprint" "SteeringWheel:5990K80107F"
 			(at 101.6 187.96 90)
 			(effects
 				(font
@@ -11436,7 +11436,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "FBR_Footprints:5990K80107F"
+		(property "Footprint" "SteeringWheel:5990K80107F"
 			(at 121.92 187.96 90)
 			(effects
 				(font
@@ -11820,7 +11820,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "FBR_Footprints:5990K80107F"
+		(property "Footprint" "SteeringWheel:5990K80107F"
 			(at 127 187.96 90)
 			(effects
 				(font
@@ -11888,7 +11888,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SteeringWheel:RP2350_Zero"
 			(at 80.01 53.34 0)
 			(effects
 				(font
@@ -12157,7 +12157,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "FBR_Footprints:5990K80107F"
+		(property "Footprint" "SteeringWheel:5990K80107F"
 			(at 203.2 187.96 90)
 			(effects
 				(font
@@ -12309,7 +12309,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "FBR_Footprints:CAP_RCER72A105K2DBH03A"
+		(property "Footprint" "SteeringWheel:CAP_RCER72A105K2DBH03A"
 			(at 232.41 187.96 0)
 			(effects
 				(font
@@ -12445,7 +12445,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "FBR_Footprints:5990K80107F"
+		(property "Footprint" "SteeringWheel:5990K80107F"
 			(at 177.8 187.96 90)
 			(effects
 				(font
@@ -12720,7 +12720,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "FBR_Footprints:5990K80107F"
+		(property "Footprint" "SteeringWheel:5990K80107F"
 			(at 106.68 187.96 90)
 			(effects
 				(font
@@ -12789,7 +12789,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "FBR_Footprints:5990K80107F"
+		(property "Footprint" "SteeringWheel:5990K80107F"
 			(at 213.36 187.96 90)
 			(effects
 				(font
@@ -13397,7 +13397,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4MHz Crystal"
+		(property "Value" "ABM7-20.000MHZ-D2Y-T"
 			(at 139.446 60.452 0)
 			(effects
 				(font
@@ -13406,7 +13406,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm"
 			(at 144.78 59.69 0)
 			(effects
 				(font
@@ -13911,7 +13911,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "FBR_Footprints:5990K80107F"
+		(property "Footprint" "SteeringWheel:5990K80107F"
 			(at 132.08 187.96 90)
 			(effects
 				(font
@@ -14050,7 +14050,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "FBR_Footprints:5990K80107F"
+		(property "Footprint" "SteeringWheel:5990K80107F"
 			(at 162.56 187.96 90)
 			(effects
 				(font
@@ -14189,7 +14189,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "FBR_Footprints:5990K80107F"
+		(property "Footprint" "SteeringWheel:5990K80107F"
 			(at 116.84 187.96 90)
 			(effects
 				(font
@@ -14324,7 +14324,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "FBR_Footprints:5990K80107F"
+		(property "Footprint" "SteeringWheel:5990K80107F"
 			(at 223.52 187.96 90)
 			(effects
 				(font
@@ -14393,7 +14393,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "FBR_Footprints:5990K80107F"
+		(property "Footprint" "SteeringWheel:5990K80107F"
 			(at 208.28 187.96 90)
 			(effects
 				(font
@@ -14462,7 +14462,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "FBR_Footprints:5990K80107F"
+		(property "Footprint" "SteeringWheel:5990K80107F"
 			(at 147.32 187.96 90)
 			(effects
 				(font
@@ -14663,7 +14663,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "FBR_Footprints:5990K80107F"
+		(property "Footprint" "SteeringWheel:5990K80107F"
 			(at 218.44 187.96 90)
 			(effects
 				(font
@@ -14864,7 +14864,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "FBR_Footprints:5990K80107F"
+		(property "Footprint" "SteeringWheel:5990K80107F"
 			(at 96.52 187.96 90)
 			(effects
 				(font
